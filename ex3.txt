@@ -1,0 +1,5 @@
+target encode
+block 20
+num 10
+table table.txt
+table_method read

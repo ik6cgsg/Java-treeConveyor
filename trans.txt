@@ -1,0 +1,5 @@
+executor ex1.txt 2 3
+executor ex2.txt 4
+executor ex4.txt 4
+executor ex3.txt 5
+executor ex2.txt
